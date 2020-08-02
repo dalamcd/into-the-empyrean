@@ -1,0 +1,14 @@
+{
+	"cmd":
+	[
+		"C:/Program Files/LOVE/love.exe",
+		"${project_path:${folder}}"
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"shell": true
+}
